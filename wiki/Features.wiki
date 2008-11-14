@@ -1,0 +1,9 @@
+=Features=
+  * All features of the original SunFlow.
+  * Dynamic loading of primitives, scene parsers, and shaders.
+  * FreeImage texture loading, and render saving, supporting all image formats that FreeImage does.
+  * Loading of Gzipped scene files, (sc.gz).
+
+=Todo=
+  * Finish SceneParsers.
+  * Implement FI texture loading.
