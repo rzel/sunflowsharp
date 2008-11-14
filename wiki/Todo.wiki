@@ -1,0 +1,11 @@
+SunflowSharp is a C# port of the SunFlow render system, originally written in Java.
+
+
+Features:
+  * All features of the original SunFlow.
+  * Dynamic loading of primitives, scene parsers, and shaders.
+  * FreeImage texture loading, and render saving, supporting all image formats that FreeImage does.
+
+Todo:
+  * Finish SceneParsers.
+  * Implement FI texture loading.
