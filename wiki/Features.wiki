@@ -1,5 +1,5 @@
 =Features=
-  * All features of the original SunFlow.
+  * All features of the original [http://sunflow.sourceforge.net/ SunFlow].
   * Dynamic loading of primitives, scene parsers, and shaders.
   * [http://freeimage.sourceforge.net/ FreeImage] texture loading, and render saving, supporting all image formats that [http://freeimage.sourceforge.net/ FreeImage] does.
   * Loading of Gzipped scene files, (sc.gz).
