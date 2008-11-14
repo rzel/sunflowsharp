@@ -5,5 +5,5 @@
   * Loading of Gzipped scene files, (sc.gz).
 
 =Todo=
-  * Finish SceneParsers.
+  * Finish [http://code.google.com/p/sunflowsharp/source/browse/trunk/SunflowSharp/Core/SceneParser.cs SceneParsers].
   * Implement [http://freeimage.sourceforge.net/ FI] texture loading.
